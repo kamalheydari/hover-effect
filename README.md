@@ -1,5 +1,10 @@
 # Hover Effect Gallery
 
+## Using
+- vanillaJs
+- HTML5
+- CSS3
+
 ## Demo
 
 See demo on github pages
